@@ -273,7 +273,7 @@ for (i = 0, len = 10; i < len; i++){    // 선언부 호이스트됨
 
 for (var prop in object) {
     // 객체 순회에만 이용 (배열에선 사용 안함)
-    // prop.hasOwnProperty() 로 자식것을 걸러내는데 이용
+    // object.hasOwnProperty(prop) 로 자식것을 걸러내는데 이용
 }
 
 // ##########################################################
