@@ -349,7 +349,7 @@ if (conf) {
 // 기타 유용한 명령어
 /*
 
-    Object.getOwnPropertyDescriptors(a)
+    Object.getOwnPropertyDescriptors(obj)   : 객체의 프로퍼티 세부정보
 
 */
 
