@@ -345,5 +345,11 @@ if (conf) {
 // VS code 예약어
 //  - shift + tab  들여쓰기
 
+// ##########################################################
+// 기타 유용한 명령어
+/*
 
+    Object.getOwnPropertyDescriptors(a)
+
+*/
 
