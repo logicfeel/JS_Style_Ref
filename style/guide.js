@@ -199,6 +199,7 @@ function doSome(arg1, arg2) {   // 함수명과 ()는 붙임, 블럭은 공백 �
     - 생성자(클래스) 함수 : 대문자로 시작
         + 명사, 대문사로 시작 (동사 금지)
         + 동사 종류 : can -> bool, has -> bool, is -> bool, get, set
+        + 특수 : equal (같음)
         + (예외) attr : set, get 동시
     - 상수 : 모두 대문자
         + 문자 구문자 : (_언더바)로 표기
